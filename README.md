@@ -18,4 +18,4 @@ Working on these files yourself is very simple.
 git clone https://github.com/Janash37/simple-simon-says
 ```
 
-2. Open the director in your usual code editor and get coding. No need to npm install - this app was created using just HTML and CSS.
+2. Open the directory in your usual code editor and get coding. No need to npm install - this app was created using just HTML and CSS.
