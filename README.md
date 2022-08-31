@@ -1,6 +1,6 @@
 # Simple Simon Says
 
-An super simple browser-based game based on the classic memory game "Simon".
+A super simple browser-based game based on the classic memory game "Simon".
 
 **A hosted version of the game can be found here: https://janash37.github.io/simple-simon-says/**
 
